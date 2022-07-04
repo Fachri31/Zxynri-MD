@@ -5,9 +5,9 @@ let krizyn = `
 Hallo mypren 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┏━━━〔 ıll *DONATE* llı 〕━━❑
-⬡ *DANA:* ${dana}
-⬡ *GOPAY:* ${gopay}
-⬡ *OVO:* ${pulsa}
+⬡ *DANA:* ${088227758096}
+⬡ *GOPAY:* ${088227758096}
+⬡ *OVO:* ${Nomer Bot}
 ┗━━━━━━━━━━━━━━━━━━❑
 ┏━━〔 ıll *THANKS TO* llı 〕━❑
 ⬡ team creator-creator
@@ -16,7 +16,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 Berapapun donasi kalian akan sangat berarti 👍
 Terimakasih yang sudah mendonasikan untuk bot
 Contact person Owner:
-wa.me/${numberowner} (Owner)
+wa.me/${6288227758096} (Fachri)
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(donasi)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
@@ -28,14 +28,14 @@ wa.me/${numberowner} (Owner)
            hydratedButtons: [{
              urlButton: {
                displayText: 'Saweria🐈',
-               url: saweria
+               url: Gak Ada :v
              }
 
            },
                 {
                urlButton: {
                displayText: '😼Whatsapp creator😼',
-               url: nomer
+               url: 6288227758096
              }
 
            },
