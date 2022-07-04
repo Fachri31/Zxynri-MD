@@ -9,7 +9,7 @@ let krizyn = `
 ››╭─〘 *Store* 〙
 ╭╡📮: Store owner kami.
 │┝‷✧ *jasa run bot:*
-│┝‷✧ *jasa jadi bot:*
+│┝‷✧ *jasa Ber" JB:*
 │╰───···─────
 │⁺◛˖ Ingin membeli store owner? Chat owner aja…
 ╰──────────···───
@@ -24,20 +24,20 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'YouTube creator🌱',
-               url: yt
+               url: Private
              }
 
            },
                 {
                urlButton: {
                displayText: '🌍 Instagram 🌍',
-               url: webm
+               url: private
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Nomor creator bot',
+               displayText: '6288227758096,
                id: '.owner2',
              }
              
